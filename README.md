@@ -1,2 +1,2 @@
-# Sisfo_Pengadaan_Barang_Dan_jasa
+# Sisfo_Pengadaan_Barang
 Aplikasi Java Web menggunakan metode JSP
